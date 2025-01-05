@@ -83,10 +83,22 @@ document.getElementById("search").addEventListener("click", () => {
   renderResults(results, nameFormat, resultsList);
 });
 
+// Fungsi untuk menghitung jumlah hasil per halaman berdasarkan ukuran layar
+function getResultsPerPage() {
+  const width = window.innerWidth; // Lebar layar
+  const height = window.innerHeight; // Tinggi layar
+
+  // Tentukan jumlah kolom berdasarkan lebar layar
+  const columns = Math.floor(width / 300); // 300px per kolom
+  // Tentukan jumlah baris berdasarkan tinggi layar
+  const rows = Math.floor(height / 200); // 200px per baris
+
+  return columns * rows; // Total hasil per halaman
+}
+
 // Fungsi untuk merender hasil pencarian
 function renderResults(results, nameFormat, resultsList) {
-  // Tentukan berapa banyak hasil yang akan ditampilkan per halaman
-  const resultsPerPage = 12;
+  const resultsPerPage = getResultsPerPage(); // Hitung otomatis hasil per halaman
   
   // Hitung total halaman yang diperlukan
   const totalPages = Math.ceil(results.length / resultsPerPage);
@@ -255,4 +267,4 @@ function removeFromFavorites(name) {
       confirmButton: "btn btn-danger"
     }
   });
-}
+    }
