@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Alya",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Cahaya yang bersinar terang."
+  },
+  {
+    "name": "Alya Sari",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Cahaya yang bersinar terang dan memiliki kelembutan."
+  },
+  {
+    "name": "Alya Sari Fitri",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Cahaya yang bersinar terang, lembut, dan suci."
+  },
+  {
+    "name": "Raihan",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Pemimpin yang cemerlang."
+  },
+  {
+    "name": "Raihan Alfiansyah",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Pemimpin yang cemerlang dan penuh berkah."
+  },
+  {
+    "name": "Maya",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Seseorang yang penuh dengan keindahan dan kebaikan."
+  },
+  {
+    "name": "Maya Fitri",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Seseorang yang penuh dengan keindahan, kebaikan, dan kemurnian."
+  },
+  {
+    "name": "Maya Fitri Rahmawati",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Seseorang yang penuh dengan keindahan, kebaikan, kemurnian, dan kasih sayang."
+  },
+  {
+    "name": "Rafa Alif Fadhilah",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Tinggi, luhur, memiliki kesucian, dan membawa berkah."
+  },
+  {
+    "name": "Aditya Pratama",
+    "category": "Sanskerta",
+    "gender": "Laki-laki",
+    "meaning": "Matahari, yang memberikan cahaya pertama."
+  },
+  {
+    "name": "Zaki Fadhil",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Bersih, murni, cerdas, dan berbudi luhur."
+  },
+  {
+    "name": "Hana",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Bunga yang indah dan penuh berkah."
+  },
+  {
+    "name": "Hana Zahra",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Bunga yang indah dan bercahaya."
+  },
+  {
+    "name": "Hana Syifa",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Bunga yang penuh dengan penyembuhan dan kasih sayang."
+  },
+  {
+    "name": "Fahri",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Orang yang memiliki semangat dan keberanian."
+  },
+  {
+    "name": "Fahri Rizki",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Orang yang memiliki semangat, keberanian, dan rezeki."
+  },
+  {
+    "name": "Citra",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Gambaran atau citra yang indah dan mempesona."
+  },
+  {
+    "name": "Citra Anisa",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Gambaran yang mempesona dan memiliki kelembutan."
+  },
+  {
+    "name": "Citra Sari",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Gambaran yang indah dan berseri."
+  },
+  {
+    "name": "Rayyan",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Pintu surga yang hanya dimasuki oleh orang-orang berpuasa."
+  },
+  {
+    "name": "Aiman",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Orang yang baik, diberkahi dan penuh harapan."
+  },
+  {
+    "name": "Dhani",
+    "category": "Sanskerta",
+    "gender": "Laki-laki",
+    "meaning": "Orang yang kaya akan pengetahuan."
+  },
+  {
+    "name": "Aditya Mahendra",
+    "category": "Sanskerta",
+    "gender": "Laki-laki",
+    "meaning": "Matahari yang memberikan cahaya dan kemakmuran."
+  },
+  {
+    "name": "Nabila",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang mulia dan penuh kebahagiaan."
+  },
+  {
+    "name": "Nabila Siti",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Perempuan mulia yang penuh dengan kebahagiaan."
+  },
+  {
+    "name": "Alisha",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang memiliki sifat bijaksana dan penuh perhatian."
+  },
+  {
+    "name": "Kailan",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Pemuda yang kuat dan penuh tekad."
+  },
+  {
+    "name": "Zahra",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Bunga yang indah, berseri, dan mempesona."
+  },
+  {
+    "name": "Zahra Ayu",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Bunga yang indah dan penuh kecantikan."
+  },
+  {
+    "name": "Zahra Salsabila",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Bunga yang indah dan mengalirkan kedamaian."
+  },
+  {
+    "name": "Ihsan",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Kebaikan yang sempurna dan tindakan mulia."
+  },
+  {
+    "name": "Ihsan Fadil",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Kebaikan yang sempurna dan penuh dengan kemuliaan."
+  },
+  {
+    "name": "Alina",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang memiliki sifat lembut dan penuh kasih sayang."
+  },
+  {
+    "name": "Alina Salsabila",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan lembut yang membawa kedamaian."
+  },
+  {
+    "name": "Alina Dewi",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan lembut yang memiliki sifat kebijaksanaan."
+  },
+  {
+    "name": "Zidan",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Tertinggi, terhormat, dan penuh berkah."
+  },
+  {
+    "name": "Zidan Arief",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Tertinggi, terhormat, dan penuh kebijaksanaan."
+  },
+  {
+    "name": "Brahma",
+    "category": "Sanskerta",
+    "gender": "Laki-laki",
+    "meaning": "Dewa pencipta yang memberikan kehidupan."
+  },
+  {
+    "name": "Brahma Putra",
+    "category": "Sanskerta",
+    "gender": "Laki-laki",
+    "meaning": "Anak dari Dewa Brahma, pemberi kehidupan."
+  },
+  {
+    "name": "Rini",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang penuh dengan kebaikan dan kelembutan."
+  },
+  {
+    "name": "Rini Maulida",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang penuh dengan kebaikan, kasih sayang, dan berkah."
+  },
+  {
+    "name": "Rami",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Muda, penuh semangat, dan berani."
+  },
+  {
+    "name": "Rami Yusra",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Muda, penuh semangat, dan mudah untuk beruntung."
+  },
+  {
+    "name": "Amira",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Putri yang bercahaya, pemimpin yang bijaksana."
+  },
+  {
+    "name": "Amira Safira",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Putri yang bercahaya, pemimpin yang bijaksana dan penuh kedamaian."
+  },
+  {
+    "name": "Amira Safira Hana",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Putri yang bercahaya, pemimpin bijaksana, dan penuh kebahagiaan."
+  },
+  {
+    "name": "Azim",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Yang kuat, mulia, dan memiliki tekad yang besar."
+  },
+  {
+    "name": "Azim Rasyid",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Yang kuat, mulia, dan selalu dibimbing pada kebenaran."
+  },
+  {
+    "name": "Azim Rasyid Fauzan",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Yang kuat, mulia, dibimbing pada kebenaran, dan penuh kemenangan."
+  },
+  {
+    "name": "Vania",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang penuh dengan keindahan, kebijaksanaan, dan ketenangan."
+  },
+  {
+    "name": "Vania Melinda",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang penuh dengan keindahan, kebijaksanaan, dan kelembutan."
+  },
+  {
+    "name": "Vania Melinda Putri",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang penuh dengan keindahan, kebijaksanaan, kelembutan, dan kesempurnaan."
+  },
+  {
+    "name": "Rayyan",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Gerbang surga yang hanya dimasuki oleh orang-orang yang berpuasa."
+  },
+  {
+    "name": "Rayyan Fadhil",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Gerbang surga yang dimasuki oleh orang-orang yang berpuasa dan penuh kemuliaan."
+  },
+  {
+    "name": "Rayyan Fadhil Azman",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Gerbang surga yang dimasuki oleh orang-orang yang berpuasa, penuh kemuliaan, dan terhormat."
+  },
+  {
+    "name": "Shiva",
+    "category": "Sanskerta",
+    "gender": "Laki-laki",
+    "meaning": "Dewa penghancur dan pembaru, pembawa kedamaian."
+  },
+  {
+    "name": "Shiva Pratama",
+    "category": "Sanskerta",
+    "gender": "Laki-laki",
+    "meaning": "Dewa penghancur dan pembaru, yang memberi cahaya pertama."
+  },
+  {
+    "name": "Shiva Pratama Jaya",
+    "category": "Sanskerta",
+    "gender": "Laki-laki",
+    "meaning": "Dewa penghancur dan pembaru, yang memberi cahaya pertama dan membawa kejayaan."
+  },
+  {
+    "name": "Sofia",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang bijaksana, penuh dengan cinta dan kebaikan."
+  },
+  {
+    "name": "Sofia Dinda",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang bijaksana, penuh dengan cinta dan kelembutan."
+  },
+  {
+    "name": "Sofia Dinda Ratna",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang bijaksana, penuh dengan cinta, kelembutan, dan keindahan."
+  },
+  {
+    "name": "Rizki",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Rezeki, karunia, dan berkah yang diberikan oleh Allah."
+  },
+  {
+    "name": "Rizki Fawzan",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Rezeki yang diberikan oleh Allah dan penuh kemenangan."
+  },
+  {
+    "name": "Rizki Fawzan Alim",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Rezeki yang diberikan oleh Allah, penuh kemenangan, dan berilmu."
+  },
+  {
+    "name": "Amina",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Wanita yang setia dan penuh amanah."
+  },
+  {
+    "name": "Amina Zahra",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Wanita yang setia, penuh amanah, dan bercahaya."
+  },
+  {
+    "name": "Amina Zahra Fitria",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Wanita yang setia, penuh amanah, bercahaya, dan suci."
+  },
+  {
+    "name": "Hassan",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Yang baik, tampan, dan penuh kasih."
+  },
+  {
+    "name": "Hassan Alif",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Yang baik, tampan, dan penuh berkah."
+  },
+  {
+    "name": "Hassan Alif Zidan",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Yang baik, tampan, penuh berkah, dan membawa kebaikan."
+  },
+  {
+    "name": "Lina",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang lembut, penuh kasih sayang."
+  },
+  {
+    "name": "Lina Safira",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang lembut, penuh kasih sayang, dan kedamaian."
+  },
+  {
+    "name": "Lina Safira Dwi",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang lembut, penuh kasih sayang, kedamaian, dan kedua hati yang satu."
+  },
+  {
+    "name": "Alif",
+    "category": "Sanskerta",
+    "gender": "Laki-laki",
+    "meaning": "Yang pertama, awal dari segala sesuatu."
+  },
+  {
+    "name": "Alif Rahman",
+    "category": "Sanskerta",
+    "gender": "Laki-laki",
+    "meaning": "Yang pertama, penuh kasih sayang."
+  },
+  {
+    "name": "Alif Rahman Faris",
+    "category": "Sanskerta",
+    "gender": "Laki-laki",
+    "meaning": "Yang pertama, penuh kasih sayang, dan gagah berani."
+  },
+  {
+    "name": "Nabila",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang mulia dan terhormat."
+  },
+  {
+    "name": "Nabila Ayu",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang mulia, terhormat, dan penuh keindahan."
+  },
+  {
+    "name": "Nabila Ayu Sari",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Perempuan yang mulia, terhormat, penuh keindahan, dan kelembutan."
+  },
+  {
+    "name": "Dika",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Orang yang memiliki kekuatan dan kepercayaan diri."
+  },
+  {
+    "name": "Dika Yudha",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Orang yang memiliki kekuatan, kepercayaan diri, dan keberanian."
+  },
+  {
+    "name": "Dika Yudha Arya",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Orang yang memiliki kekuatan, kepercayaan diri, keberanian, dan kebijaksanaan."
+  },
+  {
+    "name": "Rania",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Ratu yang bijaksana."
+  },
+  {
+    "name": "Rania Laila",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Ratu yang bijaksana, yang penuh dengan cahaya malam."
+  },
+  {
+    "name": "Rania Laila Zahra",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Ratu yang bijaksana, penuh dengan cahaya malam, dan kemuliaan."
+  },
+  {
+    "name": "Rafael",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Malaikat penyembuh, yang memberikan ketenangan."
+  },
+  {
+    "name": "Rafael Aditya",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Malaikat penyembuh, yang memberikan ketenangan, dan sinar matahari."
+  },
+  {
+    "name": "Rafael Aditya Naufal",
+    "category": "Islami",
+    "gender": "Laki-laki",
+    "meaning": "Malaikat penyembuh, yang memberikan ketenangan, sinar matahari, dan kemenangan."
+  }
+]
