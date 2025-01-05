@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Cari, Kombinasikan, dan Simpan Nama Anak Anda dengan kategori, arti, dan lebih banyak fitur.">
+  <meta name="author" content="Kios Happy">
+  <title>Website Nama Anak</title>
+  
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  
+  <!-- Font Awesome -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="bg-primary text-white py-3 mb-4">
+    <div class="container text-center">
+      <h1 class="fw-bold">Nama Anak</h1>
+      <p class="lead">Cari, Kombinasikan, dan Simpan Nama Favorit Anda</p>
+    </div>
+  </header>
+
+  <!-- Animasi Loading -->
+  <div id="loading" class="loading-container d-none">
+    <div class="spinner-border text-primary" role="status">
+      <span class="visually-hidden">Loading...</span>
+    </div>
+  </div>
+
+  <main class="container">
+    <section class="mb-5">
+      <div class="card shadow p-4">
+        <h2 class="text-center mb-4">Cari Nama</h2>
+        <div class="row g-3">
+          <div class="col-md-6">
+            <label for="category" class="form-label">Kategori</label>
+            <select id="category" class="form-select">
+              <option value="Sanskerta">Sanskerta</option>
+              <option value="Islami">Islami</option>
+              <option value="Modern">Modern</option>
+            </select>
+          </div>
+          <div class="col-md-6">
+            <label for="gender" class="form-label">Jenis Kelamin</label>
+            <select id="gender" class="form-select">
+              <option value="Laki-laki">Laki-laki</option>
+              <option value="Perempuan">Perempuan</option>
+            </select>
+          </div>
+          <div class="col-md-6">
+            <label for="nameFormat" class="form-label">Format Nama</label>
+            <select id="nameFormat" class="form-select">
+              <option value="first">Nama Awal</option>
+              <option value="middle">Nama Awal dan Tengah</option>
+              <option value="full">Nama Lengkap</option>
+            </select>
+          </div>
+          <div class="col-12 text-center">
+            <button id="search" class="btn btn-success w-100 fw-bold">
+              <i class="fas fa-search"></i> Cari Nama
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="results" class="mb-5">
+      <h2 class="text-center mb-4">Hasil Pencarian</h2>
+      <div class="row" id="results-list"></div>
+    </section>
+
+    <section id="favorites">
+      <h2 class="text-center mb-4">Nama Favorit</h2>
+      <ul class="list-group" id="favorites-list"></ul>
+    </section>
+  </main>
+
+  <!-- Bootstrap 5 JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  
+  <!-- SweetAlert2 -->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  
+  <!-- Custom JS -->
+  <script src="script.js"></script>
+</body>
+                                                </html>
