@@ -1,0 +1,105 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f9f9f9;
+}
+
+header {
+  background: linear-gradient(135deg, #4CAF50, #00C853);
+  padding: 20px 0;
+}
+
+h1, .lead {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+#results-list .card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#results-list .card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  transition: background-color 0.3s ease;
+}
+
+.card-body:hover {
+  background-color: #f1f1f1;
+}
+
+#favorites-list {
+  margin-top: 30px;
+}
+
+#favorites-list .list-group-item {
+  font-size: 18px;
+}
+
+#results-list .card-body {
+  padding: 20px;
+}
+
+.loading-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.spinner-border {
+  width: 3rem;
+  height: 3rem;
+  border-width: 0.3rem;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@media (max-width: 767px) {
+  .col-md-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+.sweet-button {
+  position: relative;
+  padding: 10px 20px;
+  font-size: 18px;
+  background: #4CAF50;
+  color: #fff;
+  border-radius: 50px;
+  border: none;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.3s, box-shadow 0.3s ease-in-out;
+}
+
+.sweet-button:hover {
+  background-color: #45a049;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.sweet-button i {
+  margin-right: 10px;
+  }
