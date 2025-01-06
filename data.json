@@ -1552,5 +1552,509 @@
     "category": "Modern",
     "gender": "Perempuan",
     "meaning": "Harapan, panggilan yang lembut, dan yang abadi."
+  },
+  {
+    "name": "Ananta",
+    "category": "Sansekerta",
+    "gender": "Laki-laki",
+    "meaning": "Tak terbatas, abadi."
+  },
+  {
+    "name": "Anantya",
+    "category": "Sansekerta",
+    "gender": "Perempuan",
+    "meaning": "Tak terbatas, abadi."
+  },
+  {
+    "name": "Dewi",
+    "category": "Sansekerta",
+    "gender": "Perempuan",
+    "meaning": "Dewi, wanita yang diberkati."
+  },
+  {
+    "name": "Dewata",
+    "category": "Sansekerta",
+    "gender": "Laki-laki",
+    "meaning": "Dewa, Tuhan."
+  },
+  {
+    "name": "Giri",
+    "category": "Sansekerta",
+    "gender": "Laki-laki",
+    "meaning": "Gunung, kekuatan."
+  },
+  {
+    "name": "Giri Dewi",
+    "category": "Sansekerta",
+    "gender": "Perempuan",
+    "meaning": "Gunung, kekuatan, dewi."
+  },
+  {
+    "name": "Jaya",
+    "category": "Sansekerta",
+    "gender": "Laki-laki",
+    "meaning": "Kemenangan, keberhasilan."
+  },
+  {
+    "name": "Jayanti",
+    "category": "Sansekerta",
+    "gender": "Perempuan",
+    "meaning": "Kemenangan, keberhasilan, wanita yang menang."
+  },
+  {
+    "name": "Rama",
+    "category": "Sansekerta",
+    "gender": "Laki-laki",
+    "meaning": "Tuhan, yang terhormat, yang indah."
+  },
+  {
+    "name": "Rama Putra",
+    "category": "Sansekerta",
+    "gender": "Laki-laki",
+    "meaning": "Tuhan, yang terhormat, anak dari Rama."
+  },
+  {
+    "name": "Sakti",
+    "category": "Sansekerta",
+    "gender": "Laki-laki",
+    "meaning": "Kekuatan, energi."
+  },
+  {
+    "name": "Saktika",
+    "category": "Sansekerta",
+    "gender": "Perempuan",
+    "meaning": "Kekuatan, energi, wanita yang kuat."
+  },
+  {
+    "name": "Budi",
+    "category": "Sansekerta",
+    "gender": "Laki-laki",
+    "meaning": "Kebijaksanaan, akal."
+  },
+  {
+    "name": "Budi Luhur",
+    "category": "Sansekerta",
+    "gender": "Laki-laki",
+    "meaning": "Kebijaksanaan, akal yang luhur."
+  },
+  {
+    "name": "Sari",
+    "category": "Sansekerta",
+    "gender": "Perempuan",
+    "meaning": "Esensi, inti, keindahan."
+  },
+  {
+    "name": "Sari Dewi",
+    "category": "Sansekerta",
+    "gender": "Perempuan",
+    "meaning": "Esensi, inti, keindahan, dewi."
+  },
+  {
+    "name": "Nata",
+    "category": "Sansekerta",
+    "gender": "Laki-laki",
+    "meaning": "Pemimpin, yang memimpin."
+  },
+  {
+    "name": "Nata Putra",
+    "category": "Sansekerta",
+    "gender": "Laki-laki",
+    "meaning": "Pemimpin, yang memimpin, anak dari pemimpin."
+  },
+  {
+    "name": "Sinta",
+    "category": "Sansekerta",
+    "gender": "Perempuan",
+    "meaning": "Kesetiaan, istri yang setia."
+  },
+  {
+    "name": "Sinta Dewi",
+    "category": "Sansekerta",
+    "gender": "Perempuan",
+    "meaning": "Kesetiaan, istri yang setia, dewi."
+  },
+  {
+    "name": "Althea",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Sembuh, penyembuh."
+  },
+  {
+    "name": "Althea Rae",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Sembuh, penyembuh, yang tenang."
+  },
+  {
+    "name": "Zane",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Hadiah dari Tuhan."
+  },
+  {
+    "name": "Zane Alexander",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Hadiah dari Tuhan, pembela umat manusia."
+  },
+  {
+    "name": "Leona",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Lawan dari singa, kuat seperti singa."
+  },
+  {
+    "name": "Leona Grace",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Lawan dari singa, kuat seperti singa, penuh rahmat."
+  },
+  {
+    "name": "Kai",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Laut, yang bebas."
+  },
+  {
+    "name": "Kai Elijah",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Laut, yang bebas, Tuhan adalah Tuhanku."
+  },
+  {
+    "name": "Luna",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Bulan, cahaya malam."
+  },
+  {
+    "name": "Luna Belle",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Bulan, cahaya malam, yang indah."
+  },
+  {
+    "name": "Eliot",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Tuhan adalah kuasa, Tuhan yang kuat."
+  },
+  {
+    "name": "Eliot James",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Tuhan adalah kuasa, Tuhan yang kuat, pengganti."
+  },
+  {
+    "name": "Ava",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Burung kecil, hidup."
+  },
+  {
+    "name": "Ava Claire",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Burung kecil, hidup, yang terang."
+  },
+  {
+    "name": "Finn",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Pahlawan, keberanian."
+  },
+  {
+    "name": "Finn Oliver",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Pahlawan, keberanian, penjaga kedamaian."
+  },
+  {
+    "name": "Zara",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Bunga, cahaya."
+  },
+  {
+    "name": "Zara Mae",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Bunga, cahaya, yang baik."
+  },
+  {
+    "name": "Axel",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Palu, alat yang kuat."
+  },
+  {
+    "name": "Axel Leo",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Palu, alat yang kuat, singa."
+  },
+  {
+    "name": "Nova",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Bintang baru, yang terlahir kembali."
+  },
+  {
+    "name": "Nova Rae",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Bintang baru, yang terlahir kembali, yang tenang."
+  },
+  {
+    "name": "Kai",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Lautan, samudra."
+  },
+  {
+    "name": "Kai Zion",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Lautan, samudra, tempat kedamaian."
+  },
+  {
+    "name": "Liora",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Cahaya, terang."
+  },
+  {
+    "name": "Liora Belle",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Cahaya, terang, cantik."
+  },
+  {
+    "name": "Rhea",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Alam, ibu bumi."
+  },
+  {
+    "name": "Rhea Luna",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Alam, ibu bumi, bulan."
+  },
+  {
+    "name": "Jaxon",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Pemberian Tuhan."
+  },
+  {
+    "name": "Jaxon Luke",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Pemberian Tuhan, cahaya."
+  },
+  {
+    "name": "Ava",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Kehidupan, burung."
+  },
+  {
+    "name": "Ava Rose",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Kehidupan, burung, bunga mawar."
+  },
+  {
+    "name": "Jett",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Cepat, berenergi."
+  },
+  {
+    "name": "Jett Orion",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Cepat, berenergi, pemburu."
+  },
+  {
+    "name": "Zara",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Bunga, kecemerlangan."
+  },
+  {
+    "name": "Zara Elyse",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Bunga, kecemerlangan, berjanji."
+  },
+  {
+    "name": "Dax",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Pemimpin, kuat."
+  },
+  {
+    "name": "Dax Hayden",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Pemimpin, kuat, tempat perlindungan."
+  },
+  {
+    "name": "Isla",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Pulau."
+  },
+  {
+    "name": "Isla Rae",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Pulau, cahaya."
+  },
+  {
+    "name": "Ace",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Terbaik, jagoan."
+  },
+  {
+    "name": "Ace Noah",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Terbaik, jagoan, kedamaian."
+  },
+  {
+    "name": "Arlo",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Berani, mulia."
+  },
+  {
+    "name": "Arlo James",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Berani, mulia, kebaikan."
+  },
+  {
+    "name": "Mira",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Mulia, cemerlang."
+  },
+  {
+    "name": "Mira Jolie",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Mulia, cemerlang, cantik."
+  },
+  {
+    "name": "Kaius",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Prajurit, pemimpin."
+  },
+  {
+    "name": "Kaius Finn",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Prajurit, pemimpin, adil."
+  },
+  {
+    "name": "Zara",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Putri, bunga."
+  },
+  {
+    "name": "Zara Sage",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Putri, bunga, bijak."
+  },
+  {
+    "name": "Aiden",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Api, bersemangat."
+  },
+  {
+    "name": "Aiden Blake",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Api, bersemangat, gelap."
+  },
+  {
+    "name": "Nova",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Bintang baru."
+  },
+  {
+    "name": "Nova Sky",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Bintang baru, langit."
+  },
+  {
+    "name": "Juno",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Dewa, muda."
+  },
+  {
+    "name": "Juno Raine",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Dewa, muda, hujan."
+  },
+  {
+    "name": "Leo",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Singa, kuat."
+  },
+  {
+    "name": "Leo Orion",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Singa, kuat, pemburu."
+  },
+  {
+    "name": "Lena",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Terang, cemerlang."
+  },
+  {
+    "name": "Lena Rae",
+    "category": "Modern",
+    "gender": "Perempuan",
+    "meaning": "Terang, cemerlang, cahaya."
+  },
+  {
+    "name": "Eli",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Tinggi, terhormat."
+  },
+  {
+    "name": "Eli Max",
+    "category": "Modern",
+    "gender": "Laki-laki",
+    "meaning": "Tinggi, terhormat, besar."
+  },
+  {
+    "name": "Syadrina",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Wanita Yang Kuat."
+  },
+  {
+    "name": "Syadrina Nur Desyana",
+    "category": "Islami",
+    "gender": "Perempuan",
+    "meaning": "Wanita Yang kuat, Indah, Membawa Cahaya, Dan Tujuan Mulia."
   }
 ]
